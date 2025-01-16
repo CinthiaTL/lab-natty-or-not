@@ -13,6 +13,8 @@ Utilizei o "Gamma" para revisar minha pesquisa sobre o mercado de IA e estrutura
 
 ## 🚀 Resultados
 O ebook fornece uma visão acessível sobre Inteligência Artificial, abordando desde os fundamentos da IA até suas principais aplicações, oportunidades, desafios e tendências, assim introduzindo um profissional de TI neste futuro digital impulsionado pela IA.
+Link para o ebook:
+https://github.com/CinthiaTL/lab-natty-or-not/blob/main/IA%20Simplificada.pdf
 
 ## 💭 Reflexão
 Esta foi minha primeira experiência de criação de conteúdo com IAs generativas, mostrou-me o infinito potencial criativo desta tecnologia ao mesmo tempo que pude perceber o quanto posso e tenho a melhorar e estudar sobre o assunto.
